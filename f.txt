@@ -1,1 +1,1 @@
-name = bomba
+name = bomba1
